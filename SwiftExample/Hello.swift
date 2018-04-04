@@ -15,3 +15,7 @@ public func sayHello() {
 public func sayGoodbye() {
     print("See you later!")
 }
+
+public func sayYahhoo() {
+    print("Yahhoooooo!")
+}
