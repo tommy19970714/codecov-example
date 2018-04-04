@@ -19,3 +19,7 @@ public func sayGoodbye() {
 public func sayYahhoo() {
     print("Yahhoooooo!")
 }
+
+public func sayYo() {
+    print("Yo!")
+}
